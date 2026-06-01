@@ -17,11 +17,11 @@ What you don't see is the structural work that had to happen first.
 
 | Overview | Growth |
 |----------|--------|
-| ![Overview](screenshots/Overview.png) | ![Growth](screenshots/Growth.png) |
+| ![Overview](Dashboards/Overview.png) | ![Growth](Dashboards/Growth.png) |
 
 | Market | Pricing |
 |--------|---------|
-| ![Market](screenshots/Market.png) | ![Pricing](screenshots/pricing.png) |
+| ![Market](Dashboards/Market.png) | ![Pricing](Dashboards/pricing.png) |
 
 ---
 
